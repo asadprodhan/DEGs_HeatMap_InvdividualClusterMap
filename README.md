@@ -803,6 +803,15 @@ final_plot
 ### Output
 
 
+<p align="center">
+  <img 
+    src="https://github.com/asadprodhan/DEGs_HeatMap_InvdividualClusterMap/blob/main/Figure1_Hierarchical_Clustering_HeatMap.PNG"
+ align="center" width=100% height=100% >   
+</p>
+<p align = center>
+Figure 1: Blastn database nt files.
+</p>
+
 
 Figure 1. Hierarchical gene clustering of the differentially expressed genes (DEGs) during leaf development in <i>Hakea prostrata</i>. Blue represents the lowest expression while the red represents the highest expression. Adopted from Bird et al., 2024[^Bird]. 
 
