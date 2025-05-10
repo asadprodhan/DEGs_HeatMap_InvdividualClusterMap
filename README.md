@@ -880,16 +880,20 @@ Figure 1: Blastn database nt files.
 </p>
 
 
-Analyze gene clusters using Gene Ontology (GO) enrichment, pathway analysis, or co-expression networks.
-Applications:
-Identifying co-regulated genes in response to biological conditions.
-Understanding functional modules in gene expression.
-Discovering biomarkers for diseases.
-Prioritizing candidate genes for further studies.
-Tools for DEG Hierarchical Clustering:
-R: pheatmap, ComplexHeatmap, heatmap.2, hclust
-Python: seaborn.clustermap, scipy.cluster.hierarchy
-Biological Software: DESeq2 (R), edgeR (R), Cluster 3.0
+Indivudual cluster plots help:
+
+
+- Identifying co-regulated genes in response to biological conditions
+
+
+- Understanding functional modules in gene expression
+
+
+- Discovering biomarkers for diseases
+
+
+- Prioritizing candidate genes for further studies
+
 
 
 ## **References**
