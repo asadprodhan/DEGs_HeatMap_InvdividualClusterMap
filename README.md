@@ -870,6 +870,16 @@ DESeq2 detects the followings as non-integars:
 ## **Individual Cluster Plots**
 
 
+<p align="center">
+  <img 
+    src="https://github.com/asadprodhan/DEGs_HeatMap_InvdividualClusterMap/blob/main/Figure2_Individual_Cluster_Plots.PNG"
+ align="center" width=100% height=100% >   
+</p>
+<p align = center>
+Figure 1: Blastn database nt files.
+</p>
+
+
 Analyze gene clusters using Gene Ontology (GO) enrichment, pathway analysis, or co-expression networks.
 Applications:
 Identifying co-regulated genes in response to biological conditions.
