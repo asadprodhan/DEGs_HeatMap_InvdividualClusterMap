@@ -880,7 +880,7 @@ Figure 1: Blastn database nt files.
 </p>
 
 
-Indivudual cluster plots help:
+Individual cluster plots help:
 
 
 - Identifying co-regulated genes in response to biological conditions
